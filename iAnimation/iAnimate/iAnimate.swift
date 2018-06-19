@@ -6,7 +6,7 @@
 //  Copyright © 2018 Aneesh. All rights reserved.
 //
 
-import Foundation
+import Foundation   
 import UIKit
 
 enum iAnimationStyle {
