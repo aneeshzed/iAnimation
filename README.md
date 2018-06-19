@@ -12,4 +12,7 @@ Simple use
             //After Completing Animation
             print(sucess!)
         }
+        
+        
 
+![Output sample](https://github.com/aneeshzed/iAnimation/blob/master/iAnimation/iAnimate/sample.gif)
